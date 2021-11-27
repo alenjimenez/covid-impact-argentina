@@ -15,10 +15,10 @@ Dependent variables (Targets):
 
 Independent variables (Features):
 
-- Sex
-- Age
-- Geographical region
-- Economic sector
+- Sex.
+- Age.
+- Geographical region.
+- Economic sector.
 
 --------------------------------------------------------------------------------------------
 
